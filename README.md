@@ -258,7 +258,7 @@ From automatic Story farming to Trait rerolls and seasonal event progression, ev
 
 <div align="center">
 
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKxrxP7y01c_h56BAJkf0T3gIEXWLoYq4LY2LiP5NzZ9B4CJq64Lq5L82j&s=10" width="100%" alt="Summer Hunt Event">
+<img src="https://static.beebom.com/wp-content/uploads/2026/11/Megumin-in-Anime-Adventures.jpg?w=1200&quality=400" width="100%" alt="Summer Hunt Event">
 
 ### SUMMER EVENT SUPPORT
 **Dedicated automation features for the Summer Hunt update.**
