@@ -1,7 +1,7 @@
 
 <div align="center">
 
-<img src="Images/banner.png" width="100%" alt="Anime Adventures">
+<img src="https://i.ytimg.com/vi/da-HabckmMk/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGEUgUShlMA8=&amp;rs=AOn4CLC5QkIs2pC0jn8r3VulOlqTJqK0HQ" width="100%" alt="Anime Adventures">
 
 # ✦ ANIME ADVENTURES
 ### AUTOMATION & MACRO HUB
