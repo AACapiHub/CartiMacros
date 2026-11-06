@@ -310,7 +310,7 @@ From automatic Story farming to Trait rerolls and seasonal event progression, ev
 
 <div align="center">
 
-<img src="Images/summer-preview.png" width="90%" alt="Summer Event Preview">
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEpY4EQEKKZIvNnWZTeAkjG_YkpJ1NyCsI8E3ZFkAl2HxHSmKzffPtGlY_&s=10" width="90%" alt="Summer Event Preview">
 
 <sub>Summer Hunt — Event Automation Preview</sub>
 
@@ -355,19 +355,19 @@ A dedicated section for recording, managing and replaying custom macros.
 
 <div align="center">
 
-<img src="Images/interface.png" width="100%" alt="Main Interface">
+<img src="https://robscript.com/wp-content/uploads/2026/11/anime-adventures-robscript-team.webp" width="100%" alt="Main Interface">
 
 **Main Interface**
 
 <br>
 
-<img src="Images/automation.png" width="100%" alt="Automation">
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTREe8T4J9RkiLMK0-NoJRo3NjcM9QywtL6_g1o8M8Opvi6kqxh9-O3qSc&s=10" width="100%" alt="Automation">
 
 **Automation Settings**
 
 <br>
 
-<img src="Images/config.png" width="100%" alt="Configuration">
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkBknthYlvBalGuIhHAc1NOlN92VH0iuxBCHIN2e7Atjja43MvgTKTcVS9&s=10" width="100%" alt="Configuration">
 
 **Configuration Panel**
 
