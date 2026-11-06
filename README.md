@@ -12,6 +12,23 @@
   <br>
 </div>
 
+<div align="center">
+
+<br>
+
+### 🔐 PASSWORD ARCHIVE
+
+<a href="javascript:void(0)" onclick="navigator.clipboard.writeText('CARTI2026'); this.innerHTML='✓ PASSWORD COPIED!'; return false;">
+  <img src="https://img.shields.io/badge/CARTI2026-CLICK_TO_COPY-8B5CF6?style=for-the-badge" width="350" alt="Copy archive password">
+</a>
+
+<sub>Click the password above to copy it to your clipboard.</sub>
+
+<br>
+
+</div>
+
+
 # ✦ ANIME ADVENTURES
 ### AUTOMATION & MACRO HUB
 
